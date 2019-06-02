@@ -1,6 +1,3 @@
-# MMUProject
-Memory Managemant Unit
-
 <h1> Java Memory Managemant Unit Project </h1>
 
 Memory Management Unit implementation written in Java using Eclipse. <br>
